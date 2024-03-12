@@ -1,7 +1,14 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
+h1 {
+  font-size: 5rem;
+  line-height: 4.8rem;
+}
+p {
+  max-width: 55ch;
+  margin-inline: auto;
+}
 /* Hero Section */
 
 #Hero-Section {
